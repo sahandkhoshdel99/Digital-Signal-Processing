@@ -1,1 +1,1 @@
-# DSP-Lab
+# Digital Signal Processing
